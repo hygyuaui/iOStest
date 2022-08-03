@@ -11,19 +11,19 @@
 						<key>kind</key>
 						<string>software-package</string>
 						<key>url</key>
-						<string>http://192.168.31.219:8080/grainpatrol/app/downloadtes.do?type=4</string>
+						<string>http://192.168.31.218:8080/grainpatrol/app/downloadtes.do?type=4</string>
 					</dict>
 					<dict>
 						<key>kind</key>
 						<string>display-image</string>
 						<key>url</key>
-						<string>http://192.168.31.219:8080/grainpatrol/app/downloadtes.do?type=iconx1</string>
+						<string>http://192.168.31.218:8080/grainpatrol/app/downloadtes.do?type=iconx1</string>
 					</dict>
 					<dict>
 						<key>kind</key>
 						<string>full-size-image</string>
 						<key>url</key>
-						<string>http://192.168.31.219:8080/grainpatrol/app/downloadtes.do?type=iconx2</string>
+						<string>http://192.168.31.218:8080/grainpatrol/app/downloadtes.do?type=iconx2</string>
 					</dict>
 				</array>
 				<key>metadata</key>
